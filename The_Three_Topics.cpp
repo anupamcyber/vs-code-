@@ -9,15 +9,6 @@ int main()
     if (x == a || x == b || x == c)
         cout << "Yes" << endl;
     int a;
-    int a;
-    int a;
-    cin >> a;
-    cin >> a;
-    cin >> a;
-    cin >> a;
-    cin >> a;
-    cin >> a;
-    cin >> a;
-    cin >> a;
+
     return 0;
 }
